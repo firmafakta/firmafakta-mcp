@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 332 332" width="332" height="332" role="img" aria-label="Firmafakta">
+  <g transform="translate(30 81)">
+    <g fill="#0866ff">
+      <path d="M0 58V48C0 21.5 21.5 0 48 0h98v10c0 26.5-21.5 48-48 48Z"/>
+      <path d="M0 170V92c0-15.5 12.5-28 28-28h104v10c0 24.3-19.7 44-44 44H50v10c0 23.2-18.8 42-42 42Z"/>
+    </g>
+    <g fill="#198fff" transform="translate(126)">
+      <path d="M0 58V48C0 21.5 21.5 0 48 0h98v10c0 26.5-21.5 48-48 48Z"/>
+      <path d="M0 170V92c0-15.5 12.5-28 28-28h104v10c0 24.3-19.7 44-44 44H50v10c0 23.2-18.8 42-42 42Z"/>
+    </g>
+  </g>
+</svg>

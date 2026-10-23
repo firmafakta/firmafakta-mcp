@@ -1,0 +1,30 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "se.firmafakta/firmafakta",
+  "title": "Firmafakta",
+  "description": "Swedish company data: segment companies by industry, place and size, and look up any company.",
+  "version": "1.6.40",
+  "websiteUrl": "https://firmafakta.se/en/ai/",
+  "icons": [
+    {
+      "src": "https://firmafakta.se/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    },
+    {
+      "src": "https://firmafakta.se/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.firmafakta.se"
+    }
+  ]
+}
