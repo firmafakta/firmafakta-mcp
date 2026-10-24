@@ -3,8 +3,12 @@
   "name": "se.firmafakta/firmafakta",
   "title": "Firmafakta",
   "description": "Swedish company data: segment companies by industry, place and size, and look up any company.",
-  "version": "1.6.40",
+  "version": "1.7.1",
   "websiteUrl": "https://firmafakta.se/en/ai/",
+  "repository": {
+    "url": "https://github.com/firmafakta/firmafakta-mcp",
+    "source": "github"
+  },
   "icons": [
     {
       "src": "https://firmafakta.se/icon.svg",
